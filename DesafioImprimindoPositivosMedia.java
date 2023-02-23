@@ -6,7 +6,7 @@
 import java.io.IOException;
 import java.util.Scanner;
 
-public class DIO {
+public class DesafioImprimindoPositivosMedia {
 	
   public static void main(String[] args) throws IOException {
      Scanner leitor = new Scanner(System.in);
